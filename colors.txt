@@ -17,3 +17,7 @@ mustard
 charcoal
 canary
 auburn
+olive
+
+
+red blue yellow
